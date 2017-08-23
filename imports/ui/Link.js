@@ -1,4 +1,5 @@
 import React from 'react';
+import FlipMove from 'react-flip-move';
 
 import LinksList from './LinksList';
 import PrivateHeader from './PrivateHeader';
